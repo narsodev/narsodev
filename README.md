@@ -71,7 +71,7 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/narsodev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     &nbsp;&nbsp;&nbsp;
-  <a href="mailto:narsodev@gmail.com?subject=Hello%20Alex%2C%20from%20github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:narsodev@gmail.com?subject=Hello%20Narciso%2C%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <hr>
