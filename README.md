@@ -34,6 +34,7 @@
                 srcset="https://github-readme-stats.vercel.app/api/pin/?username=narsodev&repo=42-talan-quickathon&icon_color=E9BC02"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
+            <img src="https://github-readme-stats.vercel.app/api?username=narsodev&show_icons=true" />
         </picture>
     </a>
     <a href="https://github.com/aaguiler42/Leinn-hub">
@@ -46,6 +47,7 @@
                 srcset="https://github-readme-stats.vercel.app/api/pin/?username=aaguiler42&repo=Leinn-hub&icon_color=E9BC02"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
+            <img src="https://github-readme-stats.vercel.app/api?username=narsodev&show_icons=true" />
         </picture>
     </a>
     <a href="https://github.com/aaguiler42/Open-science-hub">
@@ -58,6 +60,7 @@
                 srcset="https://github-readme-stats.vercel.app/api/pin/?username=aaguiler42&repo=Open-science-hub&icon_color=E9BC02"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
+            <img src="https://github-readme-stats.vercel.app/api?username=narsodev&show_icons=true" />
         </picture>
     </a>
 </p>
